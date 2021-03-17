@@ -12,4 +12,4 @@
 
 1)cd server-data
 
-2)
+2)https://github.com/LiGmAbAlZzZ/FiveM-Speed-Meter-Script.git
